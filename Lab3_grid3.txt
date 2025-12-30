@@ -2,6 +2,6 @@
 0.2 # noise
 -0.04 # immediate rewards (for all non-terminal states)
 T 1 2 1 # Terminal state (x,y,reward)
-T 7 7 -1 # Terminal stats (x,y,reward)
-W 2 1 # Wall (x,y)
-W 3 4 # Wall (x, y)
+T 7 8 -1 # Terminal stats (x,y,reward)
+W 4 5 # Wall (x,y)
+W 6 7 # Wall (x, y)
