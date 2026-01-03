@@ -1,4 +1,4 @@
-6 6 # width height
+6 7 # width height
 0.2 # noise
 -0.04 # immediate rewards (for all non-terminal states)
 T 2 4 1 # Terminal state (x,y,reward)
